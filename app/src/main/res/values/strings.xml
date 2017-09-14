@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="alert_gps_title">GPS Enable</string>
+    <string name="alert_gps_not_enable">No</string>
+    <string name="alert_gps_yes">Yes</string>
+    <string name="alert_gps_no">cancele</string>
+</resources>
